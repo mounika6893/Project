@@ -1,0 +1,4 @@
+Ansible is a open source tool which is used to simplfy the configuration managment to automate the configuration and deployment.
+
+ssh-
+ssh-copy-id -i sudo@ip

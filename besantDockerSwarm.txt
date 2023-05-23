@@ -1,0 +1,20 @@
+DOCKER SWARM
+cotainer is like a box that apllication code along with its dependencies
+Docker swarm and Kubernetes are container orchestration tool to manage the containers
+Docker Swarm or Kubernetes Provides container
+- Orchestration
+- High Availabilty
+- Scaling(up/down)
+- MultiHost Networking
+- Service Discovery & Load Balancing
+	-Global or replica mode
+	
+-Rolling Updates and Role back 
+
+DOCKER NETWORKING
+- NONE - no need of network FOR testing purpose
+- BRIDGE NETWORK - 
+
+docker swarm join --token SWMTKN-1-5t9pbw0pe83pq2d7zki1cyaclv2il3ca77izws2miqf98xagc0-es2csr74rp9j89elv5m0grlrs 172.31.85.212:2377
+
+docker swarm join-token manager

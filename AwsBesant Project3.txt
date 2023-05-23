@@ -1,0 +1,5 @@
+iam role - power user accesse
+create dynamo bd table,with email as partition key
+create lamba fun providing role and zip file code
+create api> Rest api> get and post
+create cloud watch alaram to trigger after 5 entries - consumed write capacity metric

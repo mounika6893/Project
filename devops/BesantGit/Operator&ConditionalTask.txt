@@ -1,0 +1,10 @@
+Python Task :
+
+1.Swap two number with using 3rd Variable.
+2.Swap two number with out using 3rd variable.
+3.swap two number with using * and / operator.
+4.Find the maximum number of two number.
+5.find the minimum number of two given number.
+6.Find odd or even
+7.find the maximum number of given three numbers.
+8.check the person eligible for vote.
